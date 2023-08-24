@@ -1,4 +1,4 @@
-# Password Generator App
+# Flash Card App
 
 ![App Screenshot](./images/screenshot.png)
 
